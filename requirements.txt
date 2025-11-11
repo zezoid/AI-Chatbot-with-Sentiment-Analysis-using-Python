@@ -1,0 +1,18 @@
+# Core Machine Learning & Transformers
+torch>=2.0.0
+transformers>=4.40.0
+
+# Local AI Model Runtime
+ollama>=0.1.7
+
+# Utilities
+psutil>=5.9.0
+requests>=2.31.0
+
+# GUI
+tkinter
+
+
+sentencepiece>=0.1.99
+accelerate>=0.29.0
+safetensors>=0.4.2
